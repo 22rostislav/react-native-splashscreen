@@ -13,4 +13,6 @@
 
 + (void)show:(RCTRootView *)v;
 
++ (void)showView:(UIView *)view onRootView:(RCTRootView *)rv;
+
 @end
